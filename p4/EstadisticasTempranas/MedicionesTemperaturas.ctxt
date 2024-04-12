@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=MedicionesTemperaturas
+comment1.params=
+comment1.target=MedicionesTemperaturas()
+comment1.text=\n\ Constructor\ de\ MedicionesTemperaturas.\ Crea\ la\ lista\ de\ mediciones\ vac\u00EDa.\n
+comment2.params=nuevaTemperatura
+comment2.target=void\ agregarMedicion(float)
+comment2.text=\n\ Agrega\ una\ nueva\ medicion\ de\ temperatura\n
+comment3.params=
+comment3.target=void\ imprimirTemperaturas()
+comment3.text=\n\ Imprime\ la\ lista\ de\ temperaturas/mediciones\n
+comment4.params=
+comment4.target=float\ promedioTemperaturas()
+comment4.text=\n\ Calcula\ el\ promedio\ de\ temperaturas.\ \n\ Precondicion\:\ debe\ haber\ al\ menos\ una\ temperatura\ cargada\ para\ que\ el\ promedio\ tenga\ sentido.\n
+comment5.params=
+comment5.target=int\ cantidadRegistrosSubCero()
+comment5.text=\n\ Calcula\ cantidad\ de\ registros\ de\ temperaturas\ negativas\ (sub\ cero)\n
+numComments=6
